@@ -67,9 +67,11 @@
             <div class="col-lg-8">
               <div class="portfolio-details-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                  <div class="swiper-slide"><img src="assets/img/portfolio/portfolio-8.jpg"
+                  <div class="swiper-slide">
+                    <figure class="figure"><img src="assets/img/portfolio/portfolio-8.jpg"
 
-                      alt=""> </div>
+                      alt=""><figcaption class="figure-caption text-end">An infographic of the plastic recycling.</figcaption>
+</figure> </div>
                 </div>
               </div>
             </div>
@@ -79,16 +81,15 @@
                 <ul>
                   <li><strong>Category</strong>: Infographic</li>
                   <li><strong>Project name</strong>: Where's the bottles? </li>
-                  <li><strong>Project date</strong>: Project of 2022 <li>
-                    <li><strong>Client</strong>: PORNPAIJIT POLIMER CO.,LTD)</li>
-               
+                  <li><strong>Project date</strong>: Project of 2022 </li>
+                  <li> <br>
+                  </li>
+                  <li><strong>Client</strong>: PORNPAIJIT POLIMER CO.,LTD)</li>
                 </ul>
-               
-              </div>
               </div>
             </div>
           </div>
-        
+        </div>
       </section>
       <!-- End Portfolio Details Section --> </main>
     <!-- End #main -->
